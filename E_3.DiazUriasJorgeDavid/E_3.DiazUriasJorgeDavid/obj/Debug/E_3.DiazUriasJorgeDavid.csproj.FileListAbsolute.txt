@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\E_3.DiazUriasJorgeDavid\E_3.DiazUriasJorgeDavid\bin\Debug\E_3.DiazUriasJorgeDavid.exe.config
+C:\Users\PC\source\repos\E_3.DiazUriasJorgeDavid\E_3.DiazUriasJorgeDavid\bin\Debug\E_3.DiazUriasJorgeDavid.exe
+C:\Users\PC\source\repos\E_3.DiazUriasJorgeDavid\E_3.DiazUriasJorgeDavid\bin\Debug\E_3.DiazUriasJorgeDavid.pdb
+C:\Users\PC\source\repos\E_3.DiazUriasJorgeDavid\E_3.DiazUriasJorgeDavid\obj\Debug\E_3.DiazUriasJorgeDavid.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\E_3.DiazUriasJorgeDavid\E_3.DiazUriasJorgeDavid\obj\Debug\E_3.DiazUriasJorgeDavid.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\E_3.DiazUriasJorgeDavid\E_3.DiazUriasJorgeDavid\obj\Debug\E_3.DiazUriasJorgeDavid.exe
+C:\Users\PC\source\repos\E_3.DiazUriasJorgeDavid\E_3.DiazUriasJorgeDavid\obj\Debug\E_3.DiazUriasJorgeDavid.pdb
+F:\E_3.DiazUriasJorgeDavid\E_3.DiazUriasJorgeDavid\bin\Debug\E_3.DiazUriasJorgeDavid.exe.config
+F:\E_3.DiazUriasJorgeDavid\E_3.DiazUriasJorgeDavid\bin\Debug\E_3.DiazUriasJorgeDavid.exe
+F:\E_3.DiazUriasJorgeDavid\E_3.DiazUriasJorgeDavid\bin\Debug\E_3.DiazUriasJorgeDavid.pdb
+F:\E_3.DiazUriasJorgeDavid\E_3.DiazUriasJorgeDavid\obj\Debug\E_3.DiazUriasJorgeDavid.csprojResolveAssemblyReference.cache
+F:\E_3.DiazUriasJorgeDavid\E_3.DiazUriasJorgeDavid\obj\Debug\E_3.DiazUriasJorgeDavid.csproj.CoreCompileInputs.cache
+F:\E_3.DiazUriasJorgeDavid\E_3.DiazUriasJorgeDavid\obj\Debug\E_3.DiazUriasJorgeDavid.exe
+F:\E_3.DiazUriasJorgeDavid\E_3.DiazUriasJorgeDavid\obj\Debug\E_3.DiazUriasJorgeDavid.pdb
