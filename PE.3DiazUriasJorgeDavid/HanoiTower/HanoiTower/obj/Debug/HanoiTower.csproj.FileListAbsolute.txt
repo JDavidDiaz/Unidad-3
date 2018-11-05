@@ -1,0 +1,6 @@
+C:\Users\Geo\source\repos\PE.3DiazUriasJorgeDavid\HanoiTower\HanoiTower\bin\Debug\HanoiTower.exe.config
+C:\Users\Geo\source\repos\PE.3DiazUriasJorgeDavid\HanoiTower\HanoiTower\bin\Debug\HanoiTower.exe
+C:\Users\Geo\source\repos\PE.3DiazUriasJorgeDavid\HanoiTower\HanoiTower\bin\Debug\HanoiTower.pdb
+C:\Users\Geo\source\repos\PE.3DiazUriasJorgeDavid\HanoiTower\HanoiTower\obj\Debug\HanoiTower.csproj.CoreCompileInputs.cache
+C:\Users\Geo\source\repos\PE.3DiazUriasJorgeDavid\HanoiTower\HanoiTower\obj\Debug\HanoiTower.exe
+C:\Users\Geo\source\repos\PE.3DiazUriasJorgeDavid\HanoiTower\HanoiTower\obj\Debug\HanoiTower.pdb

@@ -1,0 +1,6 @@
+C:\Users\Geo\source\repos\PE.3DiazUriasJorgeDavid\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Geo\source\repos\PE.3DiazUriasJorgeDavid\ToDoList\ToDoList\bin\Debug\ToDoList.exe.config
+C:\Users\Geo\source\repos\PE.3DiazUriasJorgeDavid\ToDoList\ToDoList\bin\Debug\ToDoList.exe
+C:\Users\Geo\source\repos\PE.3DiazUriasJorgeDavid\ToDoList\ToDoList\bin\Debug\ToDoList.pdb
+C:\Users\Geo\source\repos\PE.3DiazUriasJorgeDavid\ToDoList\ToDoList\obj\Debug\ToDoList.exe
+C:\Users\Geo\source\repos\PE.3DiazUriasJorgeDavid\ToDoList\ToDoList\obj\Debug\ToDoList.pdb

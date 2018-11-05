@@ -1,0 +1,7 @@
+C:\Users\Geo\source\repos\PE.3DiazUriasJorgeDavid\Vacas\Vacas\bin\Debug\Vacas.exe.config
+C:\Users\Geo\source\repos\PE.3DiazUriasJorgeDavid\Vacas\Vacas\bin\Debug\Vacas.exe
+C:\Users\Geo\source\repos\PE.3DiazUriasJorgeDavid\Vacas\Vacas\bin\Debug\Vacas.pdb
+C:\Users\Geo\source\repos\PE.3DiazUriasJorgeDavid\Vacas\Vacas\obj\Debug\Vacas.csprojResolveAssemblyReference.cache
+C:\Users\Geo\source\repos\PE.3DiazUriasJorgeDavid\Vacas\Vacas\obj\Debug\Vacas.csproj.CoreCompileInputs.cache
+C:\Users\Geo\source\repos\PE.3DiazUriasJorgeDavid\Vacas\Vacas\obj\Debug\Vacas.exe
+C:\Users\Geo\source\repos\PE.3DiazUriasJorgeDavid\Vacas\Vacas\obj\Debug\Vacas.pdb
